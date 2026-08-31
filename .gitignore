@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/HouseOfHoundAPI/TextFile1.txt
+/HouseOfHoundAPI/TextFile2.txt
